@@ -7,4 +7,7 @@ Tasks:
 3. Change the origin of the repository so that it won't push up to the original repository
 4. Change the code in your cloned repository so that it changes the output in some fashion. It can be simple like a spelling a change
 5. Save and commit your changes to your local Git repository
-6. Push your changes to Github.
+6. Push your changes to Github. Make sure you see your changes in your personal repository on GitHub NOT in the "ballard-high-ap-cs" repository
+7. Find one person in the classroom and get their repository URL and share your URL with them.
+8. Change your repository's origin to their URL and push some changes to their repository.
+9. Verify both your changes were uploaded and their changes were uploaded to your repository as well.
