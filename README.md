@@ -10,4 +10,4 @@ Tasks:
 6. Push your changes to Github. Make sure you see your changes in your personal repository on GitHub NOT in the "ballard-high-ap-cs" repository
 7. Find one person in the classroom and get their repository URL and share your URL with them.
 8. Change your repository's origin to their URL and push some changes to their repository.
-9. Verify both your changes were uploaded and their changes were uploaded to your repository as well.
+9. In your repository's README file, describe what happened when you tried to push your changes to their repository.
