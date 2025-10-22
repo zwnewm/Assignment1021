@@ -8,6 +8,7 @@ public class Main {
         String name = scanner.nextLine();
         
         System.out.println("Your name is " + name);
+        System.out.println("Nice to meet you " +name);
         
         scanner.close();
     }
